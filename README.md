@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi Yogesh 👋
 
-<!--
-**yogeshvema/yogeshvema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd year Material Science and Engineering student at IIT Mandi
+💡 I love solving DSA problems and building real-world AI/ML projects
+🚀 Actively working on Deep Learning, Computer Vision, and Full Stack projects
+📫 How to reach me: LinkedIn(https://www.linkedin.com/in/yogesh012/) | Email(yogesh09155@gmail.com)
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Languages: Python, C++, JavaScript
+Tools & Frameworks: PyTorch, TensorFlow, Scikit-Learn, React, Node.js
+Cloud: GCP, AWS (basics), Firebase
+Databases: MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🧑‍💻 Let's Connect!
+LinkedIn(https://www.linkedin.com/in/yogesh012/) Gmail(yogesh09155@gmail.com)
