@@ -1,6 +1,6 @@
 # 👋 Hi Yogesh
 
-🧑‍🎓 I'm a 3rd year Materials Science and Engineering student at IIT Mandi  
+🧑‍🎓 I'm a 3rd year Engineering student at IIT Mandi  
 💡 I love solving DSA problems and building real-world AI/ML projects  
 🚀 Actively working on Deep Learning, Computer Vision, and UAV projects  
 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/yogesh012/) | [Email](mailto:yogesh09155@gmail.com)
