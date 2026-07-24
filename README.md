@@ -152,7 +152,3 @@ Full Stack Marketplace
 # 💡 Quote
 
 > "Consistency beats intensity."
-
----
-
-⭐ If you like my work, consider giving a star to my repositories!
