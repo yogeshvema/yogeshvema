@@ -1,15 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yogesh Kumar</h1>
-
-<h3 align="center">
-DevOps Engineer | Cloud Enthusiast | Open Source Contributor | B.Tech @ IIT Mandi
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogeshvema&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 3rd Year B.Tech Student at **IIT Mandi**<h1 align="center">Hi 👋, I'm Yogesh Kumar</h1>
