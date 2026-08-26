@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh Kumar</h1>
 
 <h3 align="center">
-DevOps Engineer | Cloud Enthusiast | Open Source Contributor | B.Tech @ IIT Mandi
+SDE   |  DevOps  | Cloud Enthusiast | Open Source Contributor | B.Tech @ IIT Mandi
 </h3>
 
 <p align="center">
